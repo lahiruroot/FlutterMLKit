@@ -1,4 +1,5 @@
 # flutterml
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 
 Flutter with firebase ML
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513466207776",
+    "project_id": "flutterml-fbebb",
+    "storage_bucket": "flutterml-fbebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513466207776:android:4930370dba3f131e913645",
+        "android_client_info": {
+          "package_name": "com.flutterml.flutterml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513466207776-37ekjb11j03kpadcn3e9q2m3ggas59du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4EC-Myo7EtqJFXDaSY_caJENYxvRGgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513466207776-37ekjb11j03kpadcn3e9q2m3ggas59du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,7 +16,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   mlkit: ^0.15.1
-  flutter_camera_ml_vision: ^3.0.1
+  firebase_ml_vision: ^0.9.10
   image_picker: ^0.8.3+2
 
 dev_dependencies:

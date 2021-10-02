@@ -13,11 +13,11 @@ class DisplayCard extends StatelessWidget {
                             onTap:onPressed
                             ,
                             child: Container(
-                              width: 200,
-                              height:  50,
+                              width: 555,
+                              height:  90,
                               decoration: BoxDecoration(
-                                color: Colors.redAccent,
-                                borderRadius: BorderRadius.circular(20),
+                                color: Colors.green,
+                                borderRadius: BorderRadius.circular(40),
                               ),
                               child: Center(
                                 child: Text(
